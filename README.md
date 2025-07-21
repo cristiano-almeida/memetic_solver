@@ -55,8 +55,8 @@ Esta implementação evoluiu de um AG simples para uma solução robusta, incorp
 ### 1. Clone ou baixe o repositório
 
 ```bash
-git clone https://github.com/cristiano-almeida/evrp_solver
-cd evrp_solver
+git clone https://github.com/cristiano-almeida/memetic_solver
+cd memetic_solver
 ```
 
 Ou baixe manualmente via **Code > Download ZIP**
@@ -95,8 +95,6 @@ pip install -r requirements.txt
 ```bash
 python memetic_solver.py
 ```
-
-> Caso o script tenha outro nome (ex: `evrp_solver.py`), substitua no comando.
 
 Os resultados serão salvos automaticamente nas pastas `results/` e `plots/`.
 
